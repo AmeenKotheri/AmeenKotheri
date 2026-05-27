@@ -23,7 +23,7 @@
 ## 📫 Connect With Me
 - Discord: @ameenkotheri
 - LinkedIn: https://www.linkedin.com/in/ameen-muhammed-kk-910aa9223/
-- Portfolio: 
+- Portfolio: https://ameenkotheri.github.io/PORTFOLIO/
 
 ---
 ⭐ “Building technology that solves real-world problems.”
