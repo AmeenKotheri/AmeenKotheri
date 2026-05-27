@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @AmeenKotheri
-- 👀 I’m interested in artificial intelligence and its applications in the real world.
-- 🌱 I’m currently learning Python to build my own machine learning models
-- 💞️ I’m looking to collaborate on open-source projects that promote sustainability.
-- 📫 How to reach me on discord at @ameenkotheri
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+# Hi there 👋 I'm Ameen Kotheri
+
+🚀 Founder & CEO of ChargEase  
+💡 Passionate about Startups,Cyber Security, IoT, and Web Development  
+🔭 Currently building VR + IoT based Home Automation Systems  
+🌱 Learning Cyber Security, Python and Full Stack Development  
+⚡ Interested in Open Source & Sustainable Tech Solutions  
+
+## 🛠 Tech Stack
+- Cyber Security
+- Python
+- JavaScript
+- HTML / CSS
+- NodeMCU & IoT
+- Unity & VR
+- Git & GitHub
+
+## 📌 Current Projects
+- VR Based Smart Home Automation
+- ChargEase
+- Gerat Store
+
+## 📫 Connect With Me
+- Discord: @ameenkotheri
+- LinkedIn: https://www.linkedin.com/in/ameen-muhammed-kk-910aa9223/
+- Portfolio: 
+
+---
+⭐ “Building technology that solves real-world problems.”
 
 <!---
 AmeenKotheri/AmeenKotheri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
